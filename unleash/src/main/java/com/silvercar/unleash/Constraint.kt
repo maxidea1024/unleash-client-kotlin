@@ -5,4 +5,3 @@ data class Constraint(
   val operator: Operator,
   val values: List<String>
 )
-

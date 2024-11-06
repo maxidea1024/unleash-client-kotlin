@@ -4,4 +4,3 @@ enum class Operator {
   IN,
   NOT_IN
 }
-

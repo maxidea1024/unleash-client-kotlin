@@ -8,7 +8,6 @@ class Variant(
   private val payload: Payload?,
   @SerializedName("enabled") val isEnabled: Boolean
 ) {
-
   constructor(
     name: String,
     payload: String?,
